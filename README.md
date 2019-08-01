@@ -1,4 +1,4 @@
-# User-will-click-Advertisement
+# Whether user will click Advertisement?
 Working with a advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website.
 
 Created a model that will predict whether or not user will click on an ad based off the features of that user.
