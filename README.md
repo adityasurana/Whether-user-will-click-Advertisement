@@ -15,3 +15,17 @@ This data set contains the following features:
         'Country': Country of consumer
         'Timestamp': Time at which consumer clicked on Ad or closed window
         'Clicked on Ad': 0 or 1 indicated clicking on Ad
+
+
+
+**Creating a jointplot showing Area Income versus Age:-**
+
+
+
+**Creating a jointplot showing the kde distributions of Daily Time spent on site vs. Age:-**
+
+
+**Creating a jointplot of 'Daily Time Spent on Site' vs. 'Daily Internet Usage':-**
+
+
+
