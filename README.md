@@ -19,13 +19,12 @@ This data set contains the following features:
 
 
 **Creating a jointplot showing Area Income versus Age:-**
-
-
+![Area_income vs _age](https://user-images.githubusercontent.com/39646018/62314510-d3abb480-b4b0-11e9-90c5-366148c5da74.PNG)
 
 **Creating a jointplot showing the kde distributions of Daily Time spent on site vs. Age:-**
-
+![Daily_time_spenton_site vs _age](https://user-images.githubusercontent.com/39646018/62314778-7401d900-b4b1-11e9-86d8-62dcaff5c8b0.PNG)
 
 **Creating a jointplot of 'Daily Time Spent on Site' vs. 'Daily Internet Usage':-**
-
+![Daily_internet_usage vs _daily_time_spent](https://user-images.githubusercontent.com/39646018/62314803-8419b880-b4b1-11e9-9514-bd2db86c7679.PNG)
 
 
