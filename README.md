@@ -16,7 +16,7 @@ This data set contains the following features:
         'Timestamp': Time at which consumer clicked on Ad or closed window
         'Clicked on Ad': 0 or 1 indicated clicking on Ad
 
-
+![Capture](https://user-images.githubusercontent.com/39646018/62708534-3cdf7a80-ba11-11e9-9515-448a802814c8.PNG)
 
 **Creating a jointplot showing Area Income versus Age:-**
 ![Area_income vs _age](https://user-images.githubusercontent.com/39646018/62314510-d3abb480-b4b0-11e9-90c5-366148c5da74.PNG)
